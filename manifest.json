@@ -13,7 +13,7 @@
 	  "search_provider": {
 		"name": "RhymeZone",
 		"search_url": "https://www.rhymezone.com/r/rhyme.cgi?Word={searchTerms}&typeofrhyme=perfect&org1=syl&org2=l&org3=y",
-		"keyword": "u",
+		"keyword": "rh",
 		"favicon_url": "/icons/favicon.ico"
 	  }
 	},

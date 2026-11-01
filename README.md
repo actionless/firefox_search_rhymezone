@@ -1,5 +1,5 @@
 # search_rhymezone firefox extension
-Search provider for [RhymeZone](https://www.rhymezone.com/). Bound to `u` search keyword by default.
+Search provider for [RhymeZone](https://www.rhymezone.com/). Bound to `rh` search keyword by default.
 
 
 Good and easy example of firefox search extension using [`chrome_settings_overrides`](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/chrome_settings_overrides).
