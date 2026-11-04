@@ -31,6 +31,11 @@ To build an extension just run `./build.sh`. That will generate `.xpi` extension
 
 ## local usage
 
+### temporary
+1) Open [about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox)
+2) click "Load Temporary Add-on…"
+
+### permanent
 1) sign the addon: https://extensionworkshop.com/documentation/publish/signing-and-distribution-overview/#signing-your-addons
-2) open [about:addons](about:addons), "Install add-on from file..."
+2) open [about:addons](about:addons), "Install add-on from file…"
 3) enjoy it
